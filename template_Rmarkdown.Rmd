@@ -17,6 +17,10 @@ This is an R Markdown format used for publishing markdown documents to GitHub. W
 
 You can include R code in the document as follows:
 
+# Here's is example Markdown header
+
+And some Markdown text for fun
+
 ```{r cars}
 summary(cars)
 ```
